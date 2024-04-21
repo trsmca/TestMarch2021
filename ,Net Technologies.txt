@@ -1,0 +1,48 @@
+,Net Technologies
+	Development Tools and IDEs
+	.Net Fundaments
+	C# Programming Language
+	Windows Applications
+	Asp.Net Web Applications
+	ASp.Net MVC Applications
+	Asp.Net Core 
+	Blazor
+	Mobile Applications
+	Web Services(axmx)
+	WCF
+	Web API
+	Window Services
+	Unit Testing
+	ADO.NET
+	LINQ
+	Entity Framework
+	Deployment
+Angular
+	Core and Architecture
+	Data Binding
+	Directives
+	Services and Dependency Injection
+	Routing
+	Forms
+	Pipes
+	HTTP Client
+	Lifecycle Hooks
+	Change Detection and Zone.js
+	Animations
+	Internationalization (i18n) and Localization
+	Testing
+	Angular CLI
+	State Management
+React JS
+	Indtroduction
+	The First Program
+	Components
+	State Management
+	Lifecycle Methods
+	Hooks
+	Routing
+	Performance Optimization
+	Testing
+	Forms
+	Server-Side Rendering (SSR)
+	Mobile Development
